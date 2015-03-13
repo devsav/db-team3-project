@@ -1,0 +1,1 @@
+Training project, full description to be done when project makes some headway and requirements are final
